@@ -1,0 +1,1432 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Parnassus aboriens: or, Some sparkes of poesie. By R.W. Philomus</title>
+            <author>Walden, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66553</idno>
+            <idno type="STC">Wing W290</idno>
+            <idno type="STC">ESTC R219293</idno>
+            <idno type="EEBO-CITATION">99830783</idno>
+            <idno type="PROQUEST">99830783</idno>
+            <idno type="VID">35237</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66553)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35237)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1878:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Parnassus aboriens: or, Some sparkes of poesie. By R.W. Philomus</title>
+                  <author>Walden, Richard.</author>
+               </titleStmt>
+               <extent>[2], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year; 1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>R.W. = Richard Walden.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English poetry --  Early modern, 1500-1700.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35237:1"/>
+            <pb facs="tcp:35237:1" rendition="simple:additions"/>
+            <p>
+               <hi>Parnaſſus Aboriens:</hi> OR, SOME SPARKES OF Poeſie.</p>
+            <p>By <hi>R.W. Philomuſ.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Ovid: Triſt:</hi> 5. <hi>Eleg:</hi> 1:</bibl> Hic quoque talis erit, qualis fortuna Poetae, Invenies toto Carmine dulce nihil.</q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year; 1664.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:35237:2"/>
+            <pb n="1" facs="tcp:35237:2"/>
+            <head>
+               <hi>ITER ORIENTALE:</hi> Performed in Aprill, 1662.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">A</seg> 
+                  <hi>Templar,</hi> who had's <hi>Littleton</hi> diſſolv'd,</l>
+               <l>Eaten his <hi>Cook,</hi> &amp;'s <hi>Kitchin</hi> pawn'd, reſolv'd</l>
+               <l>To take the aire, and for his recreation</l>
+               <l>To grant his broken window's a vacation.</l>
+               <l>Leaving his fellow-Students for to eat</l>
+               <l>Their wheaten Trenchers in the ſtead of Meat:</l>
+               <l>The only <hi>heyrlome</hi> that's traduc't from
+<note n="(a)" place="bottom">
+                     <lg>
+                        <l>Conſump is hic forte aliis, ut vertere morſus</l>
+                        <l>Exiguam in Cererem penuria adegit edendi:</l>
+                        <l>E<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> violare man<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, maliſque audacibus orbem</l>
+                        <l>Fatalis cr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſti, patulis nec parcere quadris. <hi>Virg: Aeu:</hi> 7.</l>
+                     </lg>
+                  </note> thoſe</l>
+               <l>
+                  <hi>Tr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>jans,</hi> which they their anceſtors ſuppoſe.</l>
+               <l>But firſt to <hi>Lealbare' a</hi> goes, where he</l>
+               <l>Was wont to meet with the <hi>Fraternitie.</hi>
+               </l>
+               <l>There found a Draper, who his ſhop had drunk,</l>
+               <l>And truſted all his Wares unto a Punk.</l>
+               <l>Him he engag'd for <hi>ſympathy</hi> of ſtate</l>
+               <l>As convoy, to encounter ſim'lar fate.</l>
+               <l>And, ſee the ſtrange concurrence of their wills,</l>
+               <l>He, in his own, his friends deſire fulfills.</l>
+               <l>As courtlike Gallants uſe to doe, he meant</l>
+               <l>To wait upon a Lady into <hi>Kent</hi>
+               </l>
+               <l>Then there in company, a pretty woman,</l>
+               <l>For diſpoſit'on coy, and yet not common.</l>
+               <l>Well, time's prefixed, and we all provide</l>
+               <l>To take advantage of the morning tyde.</l>
+               <pb n="2" facs="tcp:35237:3"/>
+               <l>Thus ſuffrages agreeing the debate</l>
+               <l>Was ended, and we p rt for it grew late.</l>
+               <l>Next morn' the Lady (who receiv'd a ſhot</l>
+               <l>O'er night by th' <hi>Paph'an Archer,</hi> but knew not</l>
+               <l>From whence it came, for th' ſubtile boy did lye</l>
+               <l>Behind the Sable Curtains of an Eye.</l>
+               <l>Yet th' ſymptomes were ſo poignant, that they broke</l>
+               <l>
+                  <hi>Morpheus</hi> his le de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> locks and burſt his yoak.)</l>
+               <l>As ſoon as <hi>Phoſpher</hi> had his courſe begun</l>
+               <l>Aroſe and did anticip<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>un:</l>
+               <l>Haſtens to th' meetingplace, and there attends</l>
+               <l>Th' <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ppro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch of her deſiderated friends.</l>
+               <l>At laſt, but not ſo ſoon as ſhe deſir'd,</l>
+               <l>With longing expect<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion well near tyr'd,</l>
+               <l>Through the Tralucent-glaſs ſhe did eſpye</l>
+               <l>The <hi>blind Where's Footbal's</hi> doom'd for company.</l>
+               <l>Her ſurly p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſs ons being thus <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ppe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d</l>
+               <l>O res were at hand, to waft us when we pleas'd,</l>
+               <l>To <hi>Belines gate,</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd now twastime for <hi>Thames,</hi>
+               </l>
+               <l>By th' help of th retrogade aſpiring ſtreams,</l>
+               <l>Was at his <hi>Zenith,</hi> and would quickly wend</l>
+               <l>Along with th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Paſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge-boat towards <hi>Graves-end.</hi>
+               </l>
+               <l>So off we thrun and ſtem the watry tract</l>
+               <l>But 't ſeems the Watermen were not exact</l>
+               <l>In calculat'on for before we can</l>
+               <l>Arrive at th' <hi>Key</hi> from th' almoſt <hi>ſinging Swan,</hi>
+               </l>
+               <l>The Water ebb'd ſo f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt, the <hi>Graveſend</hi> boat</l>
+               <l>Was put from th'ſtairs riding along a float.</l>
+               <l>And we, bec<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſe the <hi>Barge</hi> was gone before's,</l>
+               <l>Were well content to truſt our ſelves in Oares.</l>
+               <pb n="3" facs="tcp:35237:3"/>
+               <l>So down we haſted, and they'd quickly born's</l>
+               <l>With a ſide winde beyond the Cuckold's hornes.</l>
+               <l>But from that port, ſcarce halfe a mile had went,</l>
+               <l>Before the <hi>Reaches</hi> grew more turbulent.</l>
+               <l>So that the boat with lofty <hi>tolutation,</hi>
+               </l>
+               <l>Struck fear in ſome, in others a vexation;</l>
+               <l>Becauſe ſome fear'd, and th' Lady was full loath</l>
+               <l>To lye invelop'd in the courſe Tilt-cloath.</l>
+               <l>Such is the nature of timidity</l>
+               <l>Though ſeeing caus'd it, yet ſhe lov'd to ſee.</l>
+               <l>At laſt a long-wing'd <hi>Pinnace,</hi> which was bound</l>
+               <l>For ſome remoter bay, did more aſtound.</l>
+               <l>The luſty lazy lubbers ceaſe to row,</l>
+               <l>And, having leave a little way to tow,</l>
+               <l>Croſs'd o'er to meet their <hi>Scyph,</hi> and here appears</l>
+               <l>Their utmoſt skill, and our extreameſt feares</l>
+               <l>For, had we gone too faſt our boat h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d ſplit,</l>
+               <l>Too ſlow, we could not have o'ertaken it.</l>
+               <l>Thus in a ſtrange <hi>Dilemma</hi> we avoid</l>
+               <l>
+                  <hi>Scyll'</hi> and <hi>Charybdis</hi> and to th' boat are ty'd.</l>
+               <l>And now with Eaglewinged ſpeed we plow</l>
+               <l>The watry ridges, and can ſcarce tell how</l>
+               <l>We are ſo faſt tranſported, but at laſt</l>
+               <l>Their Sails begin to flag, and we as faſt</l>
+               <l>Releaſe our prow which was faſt bound to them,</l>
+               <l>And truſt to th' mercey of a r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ging ſtream.</l>
+               <l>Which ſometimes throws us up into the Sky,</l>
+               <l>And ſometimes lets us fall to hell well nigh.</l>
+               <l>Meanwhile we lye ſupinely on our backs,</l>
+               <l>One laughs, one ſings, another fears a Wrack:</l>
+               <pb n="4" facs="tcp:35237:4"/>
+               <l>And therefore her ejaculations ſends</l>
+               <l>To the <hi>ſupreme Director</hi> to defend's;</l>
+               <l>And ſo he did indeed, at laſt we land</l>
+               <l>All ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fe on the long wiſh'd-for <hi>Kentiſh ſtrand.</hi>
+               </l>
+               <l>And here the <hi>Lyon</hi> is the word, where we</l>
+               <l>Turn'd off <hi>Canary</hi>-bowls with jollitie.</l>
+               <l>Thus after ſtorms of ſighs, and ſhowres of tears,</l>
+               <l>Joy, when it comes, moſt joviall appears.</l>
+               <l>But th'clock ſtrikes One, and fourteen miles to ride,</l>
+               <l>'Tis time for thoſe to goe that want a guide.</l>
+               <l>But ye're moſt vile Exactors that ye are,</l>
+               <l>Five ſhillings for a double horſe ſo farre?</l>
+               <l>What is the reaſon that ye thus exact,</l>
+               <l>'Bove other Engliſhmen in each compact?</l>
+               <l>Is't cauſe thoſe Travellors which touch your border,</l>
+               <l>May be deterred from proceeding farther?</l>
+               <l>Or that <hi>Exoticks</hi> which are outward bound,</l>
+               <l>May have cauſe to forſwear the Engliſh ground?</l>
+               <l>Hereby you verifie thoſe
+<note n="(a)" place="bottom">Viſam Bri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>annos hoſpitib<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s feros. <hi>Hor: Car:</hi> 3. <hi>Od:</hi> 4.</note> imputations</l>
+               <l>Impos'd upon's of old by foreign Nations.</l>
+               <l>But we're for <hi>Rocheſter,</hi> where we ſurvay</l>
+               <l>The ſtately Bridge, and <hi>Chatham's royall</hi> Bay.</l>
+               <l>And 'mongſt the reſt the <hi>Crown</hi> mu'nt be forgot,</l>
+               <l>Where we muſt needs alight and drink a pot.</l>
+               <l>There we are ſhew'd the Room which did contain</l>
+               <l>The Majeſty of <hi>Britain's</hi> Soveraign:</l>
+               <l>And the great Bed he lay in as he went</l>
+               <l>Towards his Throne from direfull baniſhment.</l>
+               <pb n="5" facs="tcp:35237:4"/>
+               <l>But we ſoon mount again, and fix our ſtation</l>
+               <l>Nigh th' <hi>Ham</hi> to which frogs give denomination.</l>
+               <l>Next day we traverſe the enamel'd Fields,</l>
+               <l>And view the rarities <hi>Pomona</hi> yeilds.</l>
+               <l>Walk thoſe <hi>Quincunc' all</hi> Cherry-orchards round,</l>
+               <l>From <hi>Stroma</hi> to the <hi>hoary-Rock</hi> renown'd.</l>
+               <l>Able to glut <hi>Voluptas</hi> with delight,</l>
+               <l>And dull old <hi>Avariti</hi>'s appetite.</l>
+               <l>'Tis with exub'rant ſweets ſo well endow'd,</l>
+               <l>That, maugre oppoſit'on, I'll conclude</l>
+               <l>
+                  <hi>Kent</hi> is old <hi>Alb'on</hi>'s <hi>Eden</hi> for delight,</l>
+               <l>And his <hi>Heſperides</hi> for all but ſite.</l>
+               <l>But what is this that thus diſturbs my reſt?</l>
+               <l>Sure <hi>Love</hi> hath taken <hi>Seiſin</hi> of my breaſt.</l>
+               <l>
+                  <hi>Celarent's Prodroma</hi> and I muſt be</l>
+               <l>
+                  <hi>Subjugated</hi> in ſigne of ſlavery.</l>
+               <l>Ah poor <hi>Medea,</hi> how I
+<note n="(a)" place="bottom">Non ignara mali, miſeris ſuccurrere diſco. <hi>Virg: Aen:</hi> 1.</note> pitty thoſe</l>
+               <l>Whoſe reaſon doth their love, like
+<note n="(b)" place="bottom">
+                     <l>Sed trahit invitam nova vis; aliudque Cupido,</l>
+                     <l>Mens aliud ſuade; video meliora proboque,</l>
+                     <l>Deteriora ſequor— <hi>Ovid: Metam:</hi> 7.</l>
+                  </note> thine, oppoſe!</l>
+               <l>But I ſubmit old boy, and will ſit ſtill</l>
+               <l>Let <hi>Hymen</hi> and the ſiſters work their will.</l>
+               <l>By this time <hi>Phoebus</hi> Patron of the Bayes</l>
+               <l>Unlock'd the <hi>Daiſy</hi> five times with his rayes.</l>
+               <l>Soe we returne again, and take no care</l>
+               <l>Who muſt defray the <hi>fundling</hi> bill of fare.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="6" facs="tcp:35237:5"/>
+            <head>THE CHRONICLE</head>
+            <lg>
+               <l>Inſulting <hi>Anna</hi> firſt poſſes't</l>
+               <l>Th' <hi>Elective Empire</hi> of my breaſt.</l>
+               <l>But ſhe ſtill kept me in ſuch ſlavery,</l>
+               <l>I could not long admit her tyranny.</l>
+               <l>So I dethron'd her, and a while</l>
+               <l>With her was monarchy exil'd.</l>
+            </lg>
+            <lg>
+               <l>For <hi>Pegg</hi> and <hi>Sal</hi> yeares three or foure</l>
+               <l>Rul'd by a <hi>Conſulary</hi> pow'r.</l>
+               <l>But yet I ſeemed well amended now,</l>
+               <l>For theſe indulgent Queens did but allow</l>
+               <l>Me too much freedome, which provok'd</l>
+               <l>My <hi>Rebell-heart</hi> to quit their yoak.</l>
+            </lg>
+            <lg>
+               <l>Then reign'd <hi>Elizabeth</hi> the firſt</l>
+               <l>That bears that n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me, and moſt accurſt.</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>all the priviledges that were done</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> her for me were by compulſion.</l>
+               <l>And what man is there but believes</l>
+               <l>The will enhanceth what one gives.</l>
+            </lg>
+            <lg>
+               <l>Then <hi>Beſſe</hi> the ſecond bore the ſway,</l>
+               <l>Untill the helme was pluck't away</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of her hand by the admired <hi>Anne,</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>gh not the firſt yet <hi>ſecond</hi> unto none.</l>
+               <l>And ſhe had reigned untill now</l>
+               <l>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that the <hi>Fates</hi> would not allow.</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:35237:5"/>
+               <l>Then did depoſed <hi>Beſſe</hi> ariſe</l>
+               <l>And firſt began to tyrannize.</l>
+               <l>Intending, but ſhe was deceiv'd, thereby</l>
+               <l>To frowne a Rebell into loyalty.</l>
+               <l>For <hi>ANNE</hi> the third poſſeſt the chair</l>
+               <l>Whom God grant <hi>Atr'pos</hi> long may ſpare.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>
+               <g ref="char:V">Ʋ</g>pon a Kiſſe.</head>
+            <head type="sub">Dialogue</head>
+            <stage>Sylvanus. Cupid.</stage>
+            <sp>
+               <speaker>Sylv.</speaker>
+               <l>I Pre'thee <hi>Cupid</hi> tell me this,</l>
+               <l>What pleaſure is there in a kiſſe?</l>
+               <l>I've kiſs'd our <hi>Mopſa</hi>'s lips, but ne'er</l>
+               <l>Could find one jot of ſweetneſſe there.</l>
+            </sp>
+            <sp>
+               <speaker>Cup.</speaker>
+               <l>Poor ſilly ſwain 't no wonder is</l>
+               <l>Thou could'ſt not taſte that ſubtile bliſſe.</l>
+               <l>Tis ſublimated farre above</l>
+               <l>All ſenſe but what's inſpir'd by <hi>Love.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Sylv.</speaker>
+               <l>I cannot chuſe but laugh to ſee</l>
+               <l>A boy fraught with ſuch ſubtilty.</l>
+               <l>To make's believe ſuch ſweets there dwell</l>
+               <l>Which nought but Ignorance can tell.</l>
+            </sp>
+            <sp>
+               <speaker>Cup.</speaker>
+               <l>Peace daring mortall rul'd by ſenſe,</l>
+               <l>Blaſpheme not mine omnipotence.</l>
+               <l>Leaſt with this ſhaft, my thunder, I</l>
+               <l>Do burne thee for thy <hi>Haereſy.</hi>
+               </l>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:35237:6"/>
+               <speaker>Sylv.</speaker>
+               <l>Alas blind boy do'n't think that I</l>
+               <l>Regard thy weak Artillery.</l>
+               <l>Goe, ſhoot at Sparrows not at Hearts</l>
+               <l>Mine here defyes thy ſharpeſt darts.</l>
+            </sp>
+            <sp>
+               <speaker>Cup.</speaker>
+               <l>This bowe made <hi>Phaebus</hi> yeild to me,</l>
+               <l>And now, raſh youth, it ſhall wound thee.—</l>
+               <l>Now goe and ſee if thou can'ſt taſt</l>
+               <l>The ſweets of Lovers chiefe repaſt.</l>
+            </sp>
+            <div type="part">
+               <head>
+                  <hi>Novembris.</hi> 16.</head>
+               <sp>
+                  <speaker>Sylv.</speaker>
+                  <lg>
+                     <l>I've been and ſeen and taſted more</l>
+                     <l>Than e'er I could diſcerne before.</l>
+                     <l>And now conclude no pow'r's above</l>
+                     <l>That <hi>Oecumenick Monarch, Love.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Such kiſſes
+<note n="(a)" place="bottom">Oſcala libavit natae.—<hi>Virg: Aenead.</hi> 1.</note> 
+                        <hi>Erycina</hi> gave</l>
+                     <l>To <hi>Jove</hi> her father, when ſhe'd crave</l>
+                     <l>A reſpite for her wandring boy</l>
+                     <l>Eſcaping from the flames of <hi>Troy.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Nor were her nameſake's ought behind</l>
+                     <l>By th' Lovers <hi>Alchymy</hi> refin'd.</l>
+                     <l>The <hi>Magiſter all</hi>
+                        <note n="(b)" place="bottom">Non voluptaoſim ſicat <hi>Suavium,</hi> nec religioſum tantum vel<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> 
+                           <hi>Oſculum,</hi> nec fictiti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>m <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>anquam <hi>Baſium,</hi> nec laſciv<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>m uti <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>, ſed <hi>Quinta quaedam eſſentia</hi> hiſce omnibus elimatior.</note> 
+                        <hi>Quinteſſence</hi>
+                     </l>
+                     <l>Of
+<note n="(c)" place="bottom">
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>. <hi>Theo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>:</hi> 
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>. 28</note> ſuavity and Innocence.</l>
+                     <pb n="9" facs="tcp:35237:6"/>
+                     <l>And now the Heptarchs of the skyes</l>
+                     <l>With us did ſeem to ſympathize.</l>
+                     <l>The <hi>King of Poets</hi> and the <hi>Queen</hi>
+                     </l>
+                     <l>
+                        <hi>Of Love</hi> were in
+<note n="(a)" place="bottom">Nov. 16. Hor. 8. ☉ and ♀ in Conjunction from whence ſhe became Oriental.—</note> conjunct'on ſeen.</l>
+                  </lg>
+                  <lg>
+                     <l>Hence, by a Praedeſigne of Fate,</l>
+                     <l>Her <hi>Or'entality</hi> beares date.</l>
+                     <l>And my <hi>Ianthe</hi> ſhines to me</l>
+                     <l>As bright a <hi>Morning-ſtar</hi> as ſhe.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <stage>Chorus.</stage> 
+                        <hi>Let</hi> Rebels now his rule diſclaim,</l>
+                     <l>For my part I <hi>Love</hi>'s <hi>Liegeman</hi> am:</l>
+                     <l>And henceforth <hi>Orthodox</hi> will be</l>
+                     <l>In worſhipping his Deity.</l>
+                     <l>Obeying his <hi>Poppoean law</hi>
+                     </l>
+                     <l>Which keeps the Univerſe in awe.</l>
+                  </lg>
+               </sp>
+            </div>
+         </div>
+         <div type="poem">
+            <head>The Paralell.</head>
+            <lg>
+               <l>LEt Nature's <hi>Cabaliſts</hi> explore the cauſe</l>
+               <l>That Ignivomous mount' hath ſtop'd his jawes,</l>
+               <l>Who with his often eructat'ons hurl'd,</l>
+               <l>Such flames as us'd to terrify the world.</l>
+               <l>Thoſe ſubterran'an fires, though there at reſt,</l>
+               <l>Have broken out, I feel, within my breaſt.</l>
+               <l>My heart is now <hi>Veſuvius,</hi> that flame</l>
+               <l>Wherein I broyl, proves <hi>Vulcan</hi> is not lame.</l>
+               <l>Here <hi>Sirius</hi> ſtill reigns, nor can I find</l>
+               <l>The leaſt abatement by <hi>Etes'an</hi> wind.</l>
+               <pb n="10" facs="tcp:35237:7"/>
+               <l>That ſeeming <hi>Amphitheatre,</hi> where eye</l>
+               <l>Ne'er ſaw ought perſonate but <hi>Vacancy,</hi>
+               </l>
+               <l>Is here becom the real place where lyes</l>
+               <l>Both Scene and Stage of my long Tragedies</l>
+               <l>By <hi>Erycina</hi> acted; and beneath</l>
+               <l>Her Statue's fix't crown'd with a victors wreath.</l>
+               <l>But here we differ, that fire us'd to be</l>
+               <l>Kindled to bode ſome dire <hi>Cataſtrophe:</hi>
+               </l>
+               <l>And ſo was tranſient, or did admit</l>
+               <l>Reſpite for want of ſtuff to cheriſh it.</l>
+               <l>But theſe great Conflagrations which I</l>
+               <l>Endure (alaſs) do ſtill receive ſupply</l>
+               <l>Of Fuel to augment them, while the ſame</l>
+               <l>Proves both Incendiary, and the flame.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>Upon the <hi>Ides</hi> of <hi>March.</hi>
+            </head>
+            <head type="sub">Onomaſticon.</head>
+            <lg>
+               <l>PEruſing my old Kalend r, I find</l>
+               <l>This day to great
+<note n="(a)" place="bottom">Idibus eſt Annae feſtum geniale perennae, Hand procul a ripis, advena Tybri, tuis. <hi>Ovid: Faſt:</hi> 3.</note> 
+                  <hi>Perenna</hi>'s feaſt aſſign'd:</l>
+               <l>Which hard by <hi>Tyber</hi>'s banks was wont to be</l>
+               <l>Celebrated with much ſolemnity.</l>
+               <l>But ſith their <hi>Flamins</hi> left it in ſuſpence</l>
+               <l>Who 'twas did merit ſuch preeminence,</l>
+               <l>Whether the <hi>Moon, Themis, Eliſa</hi>'s ſiſter,</l>
+               <l>Or her <hi>Jove</hi> made a Cow becauſe he kiſs'd her.</l>
+               <l>I hope I may without offence apply't</l>
+               <l>To one that more deſerves that Epithet.</l>
+               <pb n="11" facs="tcp:35237:7"/>
+               <l>For all our <hi>Druids</hi> have long ſince forſook</l>
+               <l>Theſe Woods wherein they once ſuch pleaſure took.</l>
+               <l>And no Remayns can ſhew what <hi>Rituals</hi>
+               </l>
+               <l>Serv'd at theſe antiquated Feſtivals.</l>
+               <l>Here then I'll ſit, and in my fancy raiſe</l>
+               <l>A Fane for <hi>Erycina</hi>'s ann'all praiſe.</l>
+               <l>Wherein our <hi>Oreads</hi> and <hi>Hamadryads,</hi>
+               </l>
+               <l>Our Seagreen <hi>Nereids,</hi> and our clearskin'd <hi>Naiads,</hi>
+               </l>
+               <l>Shall yearly the new <hi>Operas</hi> recite</l>
+               <l>As was the cuſtome in the
+<note n="(a)" place="bottom">Illic &amp; cantant, quiicquid didicere Theatris. <hi>Ovid: Faſt.</hi> 3.</note> former rite,</l>
+               <l>Then 'tſhall appear <hi>Ianthe</hi> doth excell</l>
+               <l>The famous goſſip of our <hi>Buxton well.</hi>
+               </l>
+               <l>Then <hi>Decio</hi> ſhall be in more repute</l>
+               <l>Than ſhe that <hi>Malta</hi>'s <hi>Knights</hi> did inſtitute.</l>
+               <l>She that tought Ladies firſt to ride aſide</l>
+               <l>Shall be by <hi>Amaranta</hi> then outvy'd.</l>
+               <l>And <hi>Polyonoma</hi> more right ſhall ſhew,</l>
+               <l>Then any other can pretend, thereto.</l>
+               <l>Then future ages may perhaps believe</l>
+               <l>The yeare, to which ſhe Etymon doth give,</l>
+               <l>Hence took
+<note n="(b)" place="bottom">Nec mihi parva fides annos hinc iſſe priores Anna quod hoc coep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a eſt menſe Perenna coli. <hi>Id: Ibid.</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </note> beginning: While my Muſe ſhall do</l>
+               <l>Her beſt to make this <hi>Anne Perenna</hi> too.</l>
+               <l>And I will unto nothing elſe aſpire</l>
+               <l>But ſo much happineſs as not t'
+<note place="margin">(c) Nil admirari, prope res eſt una, Numici, Sola<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> quae poſſit facere &amp; ſervare bea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<g ref="char:cmbAbbrStroke">̄</g> 
+                     <hi>Hor: lib:</hi> 1. <hi>Ep:</hi> 6.</note> admire.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="12" facs="tcp:35237:8"/>
+            <head>To Idonea</head>
+            <head type="sub">Upon her diſtruſt of his conſtancy.</head>
+            <lg>
+               <l>CAn <hi>Fiſhes</hi> live i'th' aire? can <hi>Eagles</hi> creep</l>
+               <l>Along the caverns of the raging deep?</l>
+               <l>Can <hi>Salamanders</hi> change their <hi>Element?</hi>
+               </l>
+               <l>Or can the lean <hi>Camel'on</hi> break up Lent,</l>
+               <l>Uſurp old <hi>Amphitrite</hi>'s proper ward,</l>
+               <l>And feed o'th' Nobles of the ſcaly herd?</l>
+               <l>Can <hi>Rivers</hi> loſe their way, and backward run</l>
+               <l>Unto the Fountains where their Stre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ms begun?</l>
+               <l>Can <hi>Rocks</hi> forget their ponderoſity,</l>
+               <l>And ſoare like atomes in the azure Sky?</l>
+               <l>Can <hi>Bladders</hi> ſound the <hi>Cataracts</hi> of <hi>Nile,</hi>
+               </l>
+               <l>Or the abyſſe of <hi>Canacus</hi> his hill?</l>
+               <l>Can th' <hi>Needle</hi> turne to th' South? Can <hi>Magnets</hi> fly</l>
+               <l>From Iron by innate antipathy?</l>
+               <l>Can th' <hi>Orbes</hi> oth' <hi>Planets</hi> ceaſe? Can fixt Stars fall,</l>
+               <l>And lye like <hi>Briſtel-Diamends</hi> on this ball?</l>
+               <l>Can <hi>Fire</hi> deſcend? Can <hi>Water</hi> ſcale the cliff</l>
+               <l>Of <hi>Athos,</hi> or aſpiring <hi>Tenariff?</hi>
+               </l>
+               <l>Canth' <hi>Earth</hi> turne fluid, and expoſe to view</l>
+               <l>Her weighty treaſure like the pearly dew?</l>
+               <l>Can <hi>Aire</hi> condens'd grow ponderous, and flit</l>
+               <l>Unto the Centre as it's proper ſeat?</l>
+               <l>Can <hi>Nature</hi> abrog<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te thoſe lawes which ſhe</l>
+               <l>Confirm'd to laſt to perpetuity?</l>
+               <l>If ſo, you have ſome cauſe to deem that I</l>
+               <l>Apoſtatize from vow'd fidelity.</l>
+            </lg>
+            <lg>
+               <pb n="13" facs="tcp:35237:8"/>
+               <l>Oh no, my Deare, that wound, which in my heart</l>
+               <l>The winged boy made with his golden dart,</l>
+               <l>Is not ſo ſuperſic'al to admit</l>
+               <l>Abſence or objects for to pall'ate it;</l>
+               <l>Much leſs recure, what ev'ry SIGHT of thee</l>
+               <l>Doth bruiſe, and every WORD doth ſcarify.</l>
+               <l>What ev'ry TOUCH doth venome and make ſwell,</l>
+               <l>What ev'ry KISSE doth make incurable.</l>
+               <l>What will't be then, when th'
+<note n="(a)" place="bottom">— <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Heſ.</hi> in <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</note> 
+                  <hi>Black-ey'd Queen</hi> ſhail ſqueeze</l>
+               <l>Into our cups the QUINTESSENCE of theſe?</l>
+               <l>That
+<note n="(b)" place="bottom">
+                     <l>Quinta parte ſai Nectaris — <hi>Hor: Carm:</hi> 1. <hi>Od:</hi> 13.</l>
+                     <l>Qain<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> etenim ſunt partes amoris, <hi>Aſpectus, Colloquiu<g ref="char:cmbAbbrStroke">̄</g>, Tactus,</hi>
+                     </l>
+                     <l>
+                        <hi>Oſculum, Concubitus,</hi> diſticho illo Ovidiano complexa,</l>
+                     <l>Ut praeſens ſpectem Cingram, tangamque, loquarque.</l>
+                     <l>Oſcalaque admoveam, ſi nil conceditur ultra. <hi>Metam:</hi> 10.</l>
+                  </note> fifth part of her <hi>Nectar?</hi> Which may I</l>
+               <l>And thou long drink without ſatiety.</l>
+               <l>For while that <hi>Morta</hi> deigns to ſpare my thred,</l>
+               <l>
+                  <hi>By all the pleaſures of thy Nupt'all bed</hi>
+               </l>
+               <l>I will be thine, and common fairs deteſt,</l>
+               <l>And in this reſolution IREST, <hi>&amp;c.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="elegy">
+            <head>An ELO / EGIE <hi>Upon the death of the Incomparable Violiſt</hi> FRANCES POLEWHEELE <hi>deceaſed</hi> April, 12. 1663.</head>
+            <lg>
+               <l>BUT can'ſt thou goe great ſoul of Melody,</l>
+               <l>And not a <hi>Bard</hi> vouchſafe an <hi>Elegy?</hi>
+               </l>
+               <l>No, that thou ſhalt not, from my blooming yeares</l>
+               <l>Accept this tribute of a <hi>Siſter</hi>'s tears.</l>
+               <pb n="14" facs="tcp:35237:9"/>
+               <l>Methinks I ſee thee mount thy <hi>Pedeſtal,</hi>
+               </l>
+               <l>And hear the <hi>Organs</hi> play the <hi>Gradual.</hi>
+               </l>
+               <l>Methinks I ſee thee ſt ll poſſeſs thy chair</l>
+               <l>Running divis'on on thy <hi>Lyd'an Aire.</hi>
+               </l>
+               <l>While the attentive croud amazed ſtand</l>
+               <l>At the <hi>Aſpend'an</hi> touches of thy hand.</l>
+               <l>Whereby more men to virtue thou didſt call</l>
+               <l>Than th' <hi>Author</hi> ſtones unto the <hi>Theban</hi> wall.</l>
+               <l>Had'ſt thouſ yl'd to <hi>Anticyra,</hi> thou might'ſt—</l>
+               <l>Have play'd a <hi>Motet</hi> in divineſt rites.</l>
+               <l>They that went from thee diſcompos'd in ſpirit</l>
+               <l>Do <hi>Pindar</hi>'s heavy cenſure juſtly merit.</l>
+               <l>Thou mad'ſt in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nimates extatick too,</l>
+               <l>Which <hi>Orpheus,</hi> nor <hi>Arion,</hi> ne'er could do.</l>
+               <l>Their <hi>Agathon'an</hi> lightneſs made them dance,</l>
+               <l>But thine put ev'ry tree in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o a trance.</l>
+               <l>Na, <hi>Lacheſis</hi> was ſo attentive grown</l>
+               <l>Unto thy part, that ſhe forgat her own.</l>
+               <l>And ſo through inadvertency ſhe left</l>
+               <l>Spinning, and wretch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d us of thee bereft.</l>
+               <l>Oh fatal Girle! had ſhe knowne what ſhe did</l>
+               <l>She would not have ſo ſoon put up thy thred.</l>
+               <l>Or had'ſt thou taken but thy Viol with thee,</l>
+               <l>
+                  <hi>Minos</hi> would have had nothing to ſay to thee.</l>
+               <l>That might the incorrupted bench have brib'd,</l>
+               <l>And forc'd the Judges to have thee repriv'd.</l>
+               <l>But now expoſtulat'ons are in vain,</l>
+               <l>No hopes my Muſe ſhall fetch thee back again.</l>
+               <l>Wherefore I'll dreyn the torrent of her eyes,</l>
+               <l>And leave the <hi>Sphoeres</hi> to ſing thy obſequies.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="15" facs="tcp:35237:9"/>
+            <head>To Erycina, <hi>Upon her retirement to</hi> Norwich.</head>
+            <opener>
+               <salute>Madam,</salute>
+            </opener>
+            <lg>
+               <l>SIth 'tis your pleaſure to deprive</l>
+               <l>Us of that influence by which we live,</l>
+               <l>Permit your poor <hi>Devoto</hi> to recount</l>
+               <l>To what his infoelicities amount.</l>
+               <l>Which, though they be as
+<note n="(a)" place="bottom">Foelix qui patitur quae numerare poteſt. <hi>Ovid: Tr:</hi> 5. <hi>El:</hi> 1.</note> numberleſs as true,</l>
+               <l>Are all ſumm'd up in this, his loſs of you</l>
+               <l>Who only are not heaven, whil'ſt his all</l>
+               <l>Of comfort left is that they're
+<note n="(b)" place="bottom">Quem fata cogunt, ille cum venia eſt miſer. <hi>Sen: Hip: Act:</hi> 2</note> Veniall.</l>
+               <l>When firſt mine eyes theſe hidden flames reveal'd,</l>
+               <l>Which, to increaſe my woes my tongue
+<note n="(c)" place="bottom">Eſt aliquid fatale malu<g ref="char:cmbAbbrStroke">̄</g> per verba levare. <hi>Ov:</hi> loc: praecit:</note> conceal'd,</l>
+               <l>By miſconſtruction you did reprove</l>
+               <l>That ſilence which doth
+<note n="(d)" place="bottom">Curae leves loquuntur, ingentes ſtupent. <hi>Sen: Hip: Ibid.</hi> Pervia dant vada plus mur muris, alta nihil. <hi>Incert.</hi>
+                  </note> magnify my love.</l>
+               <l>In modeſty diſtruſting that try'd dart</l>
+               <l>Your light'ning eye, which, though it pierc'd my heart,</l>
+               <l>Yet I was forc'd to love and to endure,</l>
+               <l>With confidence in <hi>Telephus</hi> his
+<note n="(e)" place="bottom">Vulnus in Herculeo quae quondam fecerat hoſte Vulneris auxiliu<g ref="char:cmbAbbrStroke">̄</g> Pelias haſta tulit. <hi>Ovid: Rem: Amor: lib.</hi> 1. — Opuſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> meae bis ſenſit Telephus haſtae. <hi>Idem: Metam:</hi> 12.</note> cure.</l>
+            </lg>
+            <pb n="16" facs="tcp:35237:10"/>
+            <l>But now that love, (alaſs) which us'd to be</l>
+            <l>Fed with his proper
+<note n="(a)" place="bottom">Spes eſt quae capiat, ſpes eſt quae paſcat amore<g ref="char:cmbAbbrStroke">̄</g> 
+                  <hi>O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>: Met:</hi> 9.</note> food, by <hi>Cachexy</hi>
+            </l>
+            <l>Lives onely on it's contrary deſpair</l>
+            <l>More ſubtle than the lean <hi>Camel'on's</hi> fare.</l>
+            <l>And yet he
+<note n="(b)" place="bottom">Quo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> minor ſpes eſt hoc magis ille capit. <hi>Id: Faſ:</hi> 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Iphis amar qua poſſe frui deſperat, &amp; auget Hoc ipſam flammas — <hi>Id: Metam:</hi> 9.</note> thrives upon't, although I try</l>
+            <l>All ſhifts for to evade's <hi>
+                  <g ref="char:V">Ʋ</g>biquity.</hi>
+            </l>
+            <l>Now with ſome friends I taſt of
+<note n="(c)" place="bottom">Tu potes inſanae veneris compeſcere faſtus, &amp;c <hi>Prop: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>:</hi> 3. <hi>El:</hi> 15 Saepe t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o cecidit m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nere vict<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s amor. <hi>Tibul: lib:</hi> 3. <hi>El:</hi> 6.</note> 
+               <hi>Liber's</hi> wealth,</l>
+            <l>And drink the Poets
+<note n="(d)" place="bottom">Qui muſas amat impares Ternos ter cyathos attonitus pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et Va<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es—<hi>Hor: Carm:</hi> 3. <hi>Od:</hi> 19.</note> 
+               <hi>Nonade</hi> to your health.</l>
+            <l>Then with <hi>Diana</hi> in the woods I chear</l>
+            <l>My
+<note n="(e)" place="bottom">Vel tu venandi ſtudium cole, ſaepe receſſit Turpi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er a Phoebi victa ſorore Venus <hi>Ovid: Rem: Am:</hi> 1:</note> hounds in eager chace of <hi>Fox,</hi> or <hi>Deer.</hi>
+            </l>
+            <l>Yet allin vain, my heart doth ſtill reſent</l>
+            <l>Thoſe fires your abſence will, I fear,
+<note n="(f)" place="bottom">Phillida Demophoon praeſens moderatius uſſit. Exarſit velis accius illa datis. <hi>Id: Art: Amat:</hi> 2.</note> augment.</l>
+            <l>Though had I kept them
+<note n="(g)" place="bottom">Occulte ſi quis amavit, amet. <hi>Id: Triſt:</hi> 3. <hi>El:</hi> 4.</note> ſecret they might then</l>
+            <l>Have had the honour to have
+<note n="(h)" place="bottom">Omnis amor magnus, ſed aperto in conjuge major, Hanc Venus, ut vivat, ventilat ipſa facem. <hi>Prop:</hi> 4. <hi>El:</hi> 3.</note> greater been.</l>
+            <pb n="17" facs="tcp:35237:10"/>
+            <l>But curſed <hi>Anteloquia,</hi> whoſe tongue</l>
+            <l>Firſt did your matchleſs innocence that wrong,</l>
+            <l>Was made a
+<note n="(a)" place="bottom">Make privy to your dealing as few as you may, For three may keep a counſel if twain be away <hi>Chau: fo:</hi> 323</note> third, and cheated by her
+<note n="(b)" place="bottom">—An &amp; hae ſimulare docentur? Hae quo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> habent arres, qua<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> jabentur eunt. <hi>Ov: Heroid:</hi> 2.</note> tears</l>
+            <l>My hopes of their increaſe are turn'd to fears.</l>
+            <l>For which may all thoſe miſerable evils</l>
+            <l>That ever were contriv'd by <hi>Duns</hi> or Devils</l>
+            <l>Light on her: Or, what's worſe, O let her be</l>
+            <l>Full as unhappy as ſhe hath made me.</l>
+            <l>Now, through my fancy's opticks I perceive</l>
+            <l>The <hi>Trinobantine</hi> Virgins take their leave:</l>
+            <l>With what unwillingneſs they ſtrive to ſpell</l>
+            <l>The parting lover's <hi>Shibboleth</hi> farewell.</l>
+            <l>Such as thoſe matrons valedict'on, when</l>
+            <l>
+               <hi>Pompey</hi>'s
+<note n="(c)" place="bottom">—Quam vix ſi caſtra mariti Victoris peteret, ſiccis dimittere matres Jam poterant occulis; tanto devinxit amore Hos pudor, hos probitas; caſti<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> modeſtia vultus. <hi>Luc: Ph:</hi> 8:</note> 
+               <hi>Cornelia</hi> left <hi>Mitylene.</hi>
+            </l>
+            <l>And reaſon good, we by your abſence have</l>
+            <l>Loſt more of happineſs than e'er you gave.</l>
+            <l>For of all bad conditions his ſtate</l>
+            <l>Is the moſt wretched who was fortunate.</l>
+            <l>How bleſt, if their own happineſs they knew,</l>
+            <l>Were thoſe <hi>Icenians</hi> enjoying you!</l>
+            <l>Whoſe preſence onely's able to exclude,</l>
+            <l>From the moſt wildring deſart ſolitude.</l>
+            <pb n="18" facs="tcp:35237:11"/>
+            <l>And now to <hi>Norwich</hi> ſhall this glory add</l>
+            <l>To reinſtate her in the place ſhe
+<note n="(a)" place="bottom">
+                  <l>Tertia inſignis civitas appellatur Norvick, &amp;c.</l>
+                  <l>
+                     <hi>Mu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſt: Geog</hi> 2. Though Heylin and other our moderne</l>
+                  <l>Chorographers interpoſe <hi>Briſtow</hi> betwixt <hi>York</hi> and <hi>Norwich</hi>
+                  </l>
+                  <l>and reckon her as <hi>Drayton</hi> doth, <hi>Polyolb: Song</hi> 20.</l>
+                  <l>With Towns of high'ſt account the fourth of all the land.</l>
+               </note> had:</l>
+            <l>Uſurping <hi>Briſtow</hi> from her throne detrude,</l>
+            <l>And ſeat her third of the firſt magnitude.</l>
+            <l>Nay, what devotion old Bards expreſs'd</l>
+            <l>In ſtanding with their faces tow'rds the Weſt</l>
+            <l>'Cauſe the <hi>Canary</hi> Iſles, which by them were</l>
+            <l>So memoriz'd, are ſcituated there.</l>
+            <l>Such and ſarre more to her ſhall moderns ſhew</l>
+            <l>That's made more <hi>fortunate</hi> than
+<note n="(b)" place="bottom">
+                  <l>Qu<gap reason="illegible" resp="#MURP" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>olim fortunatae ſuerunt dictae ob nimiam</l>
+                  <l>ea<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am fertilitatem. <hi>Munſt: Geog:</hi> 6.</l>
+               </note> they by you.</l>
+            <l>And with what Saint muſt that place be poſſeſt</l>
+            <l>That makes the Poet thus to turne a Prieſt?</l>
+            <l>But may you not yet prove what ſome ſuſpect,</l>
+            <l>Unleſs in the <hi>Norſol<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'an Dialect,</hi>
+            </l>
+            <l>A mother there; and ſo ſeem to beguile's</l>
+            <l>In your retirement with their famous <hi>Wyles.</hi>
+            </l>
+            <l>Your pardon, Madam, if my love offends,</l>
+            <l>Which mine, as well as others, faith tranſcends.</l>
+            <l>'Tis not the ſhrine, though chief in nature's ſtore,</l>
+            <l>It is the Saint that I ſo much adore.</l>
+            <l>Which I hope ſtill I may, in ſpite of <hi>Fame,</hi>
+            </l>
+            <l>Without a <hi>Catachreſis</hi> terme the ſame.</l>
+            <pb n="19" facs="tcp:35237:11"/>
+            <l>Tis true were chaſtity intail'd upon</l>
+            <l>Deformed perſons by ſucceſſion,</l>
+            <l>Whereby all thoſe that would be perfect Nuns</l>
+            <l>Muſt be as ugly as th'<hi>Colanians;</hi>
+            </l>
+            <l>Perhaps I then might think thoſe cenſures true</l>
+            <l>Which malice hath ſo often caſt on you:</l>
+            <l>But now I muſt regard their words no more</l>
+            <l>Then you did my neglected flames before.</l>
+            <l>Thoſe flames which have conſuted all that thought</l>
+            <l>You had no other beauty than you bought.</l>
+            <l>For, though <hi>Parrhaſius</hi> his cloath might be</l>
+            <l>Exact enough to cheat a <hi>Zeuxis</hi> eye</l>
+            <l>As much as did his painted Grapes the birds,</l>
+            <l>Of ſuch a thing no hiſtory affords</l>
+            <l>A preſident; <hi>Apelles</hi> ne'er could turne</l>
+            <l>A painted fire ſo right to make it burne.</l>
+            <l>So that I cannot yet deny, what's due</l>
+            <l>From all unto
+<note n="(a)" place="bottom">
+                  <l>Licet concupiſcentiae amore puella pulchra amari</l>
+                  <l>magis quam turpis deſiderer; vi tamen Naturae, quae</l>
+                  <l>complexio eſt temperantior, continentior atque mo<g ref="char:EOLhyphen"/>ratior</l>
+                  <l>erit. <hi>Aug: Niphi</hi> de <hi>Pulch: Cap:</hi> 59.</l>
+               </note> formoſity and you,</l>
+            <l>A good opinion, although I know</l>
+            <l>Thoſe many ſnares that
+<note n="(b)" place="bottom">
+                  <l>—Cuneis an habent ſpectacala totis</l>
+                  <l>Quod ſecuras ames quod<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> inde excerpere poſſis? <hi>Ju: ſat:</hi> 6.</l>
+                  <l>Primus ſollicitos feciſti Romule ludos,</l>
+                  <l>Cum juvit viduos rapta ſabina viros. &amp;c.</l>
+                  <l>Scilicet ex illo ſolennia more theatra</l>
+                  <l>Nunc quo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> formoſis inſidioſa manent. <hi>Ov: Art: Amat:</hi> 1.</l>
+               </note> place ſubjects you to.</l>
+            <pb n="20" facs="tcp:35237:12"/>
+            <l>For, by the aide of your chaſt
+<note n="(a)" place="bottom">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Phoeyl: in Nov.</hi>
+               </note> ſoul, you ſcorne</l>
+            <l>All their aſſaults whether by mine or ſtorme.</l>
+            <l>And, while ſome tugg at little <hi>Rumwald</hi>'s ſhrine,</l>
+            <l>And others <hi>Wilfrid's</hi> needle think too fine</l>
+            <l>Becauſe they cannot thred it, you defye</l>
+            <l>All theſe <hi>Criterions</hi> of chaſtity.</l>
+            <l>And, when you enter <hi>Hymen's</hi> bonds, and ſo</l>
+            <l>Shall have a <hi>Joynture</hi> of a double
+<note n="(b)" place="bottom">
+                  <l>Vae nobis inquit conjux, at vae mihi coelebs,</l>
+                  <l>Vae noſtrum ſimplex ergo tuum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> duplex. <hi>Aud: l:</hi> 1 <hi>Ep:</hi> 132.</l>
+               </note> woe,</l>
+            <l>Should he be blind again, I dare aſſure</l>
+            <l>
+               <hi>Pheron</hi> might here obtain a ſecond cure.</l>
+            <l>Nor need you fear the
+<note n="(c)" place="bottom">The Storke wreker of Advoutrie <hi>Chauc: fol:</hi> 235.</note> 
+               <hi>Stork,</hi> nor to try all</l>
+            <l>Your iſſue by the
+<note n="(d)" place="bottom">
+                  <l>—In terram parvus cam deciditinfans,</l>
+                  <l>Ne qua ſit externae Veneris miſtura timentes,</l>
+                  <l>Laetifica dubios explorant aſpide partus. <hi>Luc: Pharſ:</hi> 9.</l>
+               </note> 
+               <hi>Pſylline Ordeal.</hi>
+            </l>
+            <l>No, thither you remove to ſhun this noiſe,</l>
+            <l>And taſt the ſweetneſs of retired joyes:</l>
+            <l>Secure in innocence to hate and pitty</l>
+            <l>The toyl and croud of this unweildy city.</l>
+            <l>Whil'ſt we the Orphan Theatre frequent,</l>
+            <l>Depriv'd o'th' patronage your beauty lent.</l>
+            <l>Better than that which once love would not let</l>
+            <l>
+               <hi>Ovid,</hi> Maugre his exile, to
+<note n="(e)" place="bottom">
+                  <l>Eque domo rurſus pulchrae loca vertor ad urbis,</l>
+                  <l>Cuncta<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> mens ocalis praevidet illa ſuis;</l>
+                  <l>Nunc fora, nunc aedes, nunc marmore tecta theatra. <hi>Ov<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>de Pont:</hi> 1. <hi>El</hi> 8.</l>
+               </note> forget,</l>
+            <pb n="21" facs="tcp:35237:12"/>
+            <l>'Cauſe from obſcenity reform'd; although</l>
+            <l>Our Zealots think it not reform'd enough.</l>
+            <l>They threaten't with a thorow reformation</l>
+            <l>Taken according to the laſt tranſlation.</l>
+            <l>And how that verſion did change the ſenſe</l>
+            <l>Some of our Churches too much evidence.</l>
+            <l>Thus doth the <hi>Ignis fatuus</hi> delude</l>
+            <l>That
+<note n="(a)" place="bottom">Bellua multorum es capitum—<hi>Hor: lib:</hi> 1. <hi>Epiſt:</hi> 1.</note> many headed beaſt the multitude.</l>
+            <l>So have I ſeen a Monkey break a glaſs</l>
+            <l>Becauſe it did reflect his ugly face.</l>
+            <l>But there you are exempt, and uncontrol'd</l>
+            <l>May laugh at th' dotage of this aged world;</l>
+            <l>And in thoſe
+<note n="(b)" place="bottom">
+                  <l>Norvico veteri locas eſt conterminus urbi</l>
+                  <l>Montoſus, maltis umbroſis conſitus ornis. <hi>Oc: Angl: Prael:</hi> 2.</l>
+               </note> Aſhen groves theſe fools lament</l>
+            <l>That realize what you did repreſent.</l>
+            <l>O may the <hi>Marſhland baily</hi> ne'er arreſt you,</l>
+            <l>Nor any other malady moleſt you.</l>
+            <l>But may your life, and that long, alwaies be</l>
+            <l>As free from ſorrow as diſhoneſty.</l>
+            <l>So wiſheth he who hopes in time to prove</l>
+            <l>His verſe is farre inferiour to's love.</l>
+         </div>
+         <div type="poem">
+            <head>To Janus.</head>
+            <head type="sub">Upon the new year.</head>
+            <lg>
+               <l>REview old <hi>Janus</hi> with thy backward face</l>
+               <l>All paſt years by time's footſteps thou can'ſt trace</l>
+               <pb n="22" facs="tcp:35237:13"/>
+               <l>Search his dull mouldy <hi>Annals,</hi> try to find</l>
+               <l>An year like this which thou haſt left behind.</l>
+               <l>Such grand remarques as <hi>Phoebus</hi> ne'r did ſee</l>
+               <l>Since he and's Siſter ſlept in
+<note n="(a)" place="bottom">
+                     <l>Me Chaos antiqui (nam res ſum priſca) vocabant,</l>
+                     <l>Adſpice quam longi temporis acta canam. <hi>Ovid: Faſt:</hi> 1.</l>
+                  </note> 
+                  <hi>Chaos</hi> thee.</l>
+               <l>At the laſt Seſſion when all the Gods</l>
+               <l>Were ſummon'd, <hi>Love,</hi> and <hi>Hymen</hi> were at odds</l>
+               <l>About a buſineſs then mov'd; which jars</l>
+               <l>Alarm'd to theſe much more that civill wars,</l>
+               <l>Scarce to be reconcil'd; I wiſh that wine</l>
+               <l>Were not the cauſe and ſo the Trumpet
+<note n="(b)" place="bottom">
+                     <l>Some Mythologiſts give the etymon of Janus from <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </l>
+                     <l>
+                        <hi>wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e;</hi> becauſe, as <hi>Noah,</hi> he taught men the uſe thereof.</l>
+                  </note> thine.</l>
+               <l>But they're reſolv'd, although againſt her will,</l>
+               <l>
+                  <hi>Dunmow</hi> ſhall keep her ſtinking <hi>Bacon</hi> ſtill.</l>
+               <l>Whil'ſt I, ſupported on mine either hand</l>
+               <l>By hope and patience climbe an
+<note n="(c)" place="bottom">
+                     <l>Sicat aſcenſus arenoſus in pedihas veterani, ſic malier</l>
+                     <l>lingnata homini quieto. <hi>Siracides. Cap:</hi> 25.</l>
+                  </note> hill of ſand.</l>
+               <l>And now thou Turn-key to the
+<note n="(d)" place="bottom">
+                     <l>Quicquid abi<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> vides, cael<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m, mare, nabila, terras,</l>
+                     <l>Omnia ſant noſtro clauſa patent<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> manu. <hi>Ov: Faſt:</hi> 1.</l>
+                  </note> Univerſe,</l>
+               <l>Who do'ſt with thy al-ſeeing eye diſperſe</l>
+               <l>The miſts of ignorance, (If o'er the fates</l>
+               <l>Thou haſt that pow'r as o'er
+<note n="(e)" place="bottom">
+                     <l>Praeſideo foribus coeli cum mitibus horis,</l>
+                     <l>It redit officio Jupiter ipſe meo. <hi>Idem: Ibid:</hi>
+                     </l>
+                  </note> 
+                  <hi>Olympus</hi> gates)</l>
+               <l>See if in their <hi>Decretals</hi> thou can'ſt find</l>
+               <l>An end unto this am'rous war aſſign'd.</l>
+               <pb n="23" facs="tcp:35237:13"/>
+               <l>And when <hi>Portumnus</hi> thou do'ſt next ſurvey</l>
+               <l>Thy Kingdome ſcituate ith' <hi>Belgick</hi> ſea,</l>
+               <l>Before the reſt let my beloved <hi>Yar</hi>
+               </l>
+               <l>Receive a pledge of thy pecul'ar care.</l>
+               <l>Upon whoſe happy banks there doth reſide</l>
+               <l>
+                  <hi>Auguſta's</hi> loſs, and the <hi>Icen'an</hi> pride</l>
+               <l>My <hi>Amaranta,</hi> whom perhaps thou may'ſt</l>
+               <l>Encounter walking on the marine waſt.</l>
+               <l>Going to ſee the wanton <hi>Nereids</hi> keep</l>
+               <l>Their <hi>Revels</hi> in the curled <hi>German</hi> deep.</l>
+               <l>If ſo, ſollicite her to grant a truce,</l>
+               <l>And let my heart, her long ſince captive, looſe.</l>
+               <l>If ſhe deny't (but ſpeak as ſuppl'ants uſe)</l>
+               <l>Get thy beloved <hi>Carna</hi> to infuſe</l>
+               <l>Some of her principles, her name alone</l>
+               <l>Apply'd can make her verify her
+<note n="(a)" place="bottom">
+                     <hi>Auna Heb. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</hi> Gratioſa, five miſericors, aut requieſ<g ref="char:EOLhyphen"/>cens, vel donans. <hi>Stephanus</hi> in <hi>Etymolog.</hi>
+                  </note> owne</l>
+               <l>And 'twixt theſe Gods a moderator be</l>
+               <l>To reconcile their dire hoſtility;</l>
+               <l>To which if ſhe a per'ode pleaſe to put,</l>
+               <l>Tell her ſhe muſt <hi>Love's Janus-Temple</hi> ſhut.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>Satyricon.</head>
+            <lg>
+               <l>PEace teſty dotard, wilt thou ſtill diſpence</l>
+               <l>The ruſty rules of thy experience?</l>
+               <l>Thy Axioms to us but onely be</l>
+               <l>True ſigns of thy deceptibility.</l>
+               <pb n="24" facs="tcp:35237:14"/>
+               <l>For thou didſt once as much approve what now</l>
+               <l>Thou ſeem'ſt to us ſo much to diſallow.</l>
+               <l>So that thy errour's plain, for it would be,</l>
+               <l>Monſtrous ſhould <hi>contradictorys</hi> agree.</l>
+               <l>And is't not reaſon we ſhould now ſuſpect</l>
+               <l>The <hi>Organs</hi> of thy purblnd <hi>Intellect.</hi>
+               </l>
+               <l>A conſtant ſymptome of that
+<note n="(a)" place="bottom">Senectas ipſa eſt morbus—<hi>Ter: Phorm: Act:</hi> 4. <hi>Scen:</hi> 1.</note> malady</l>
+               <l>Which bends thee with its
+<note n="(b)" place="bottom">
+                     <l>
+                        <hi>Syr.</hi> Nequeo me caſter, tantum eſt oneris quod fero.</l>
+                     <l>
+                        <hi>Dor.</hi> Quid oneris? <hi>Syr.</hi> Annos octoginta &amp; quatuor. <hi>Pla: (Mer: Ac:</hi> 4. <hi>S:</hi> 1.</l>
+                  </note> ponderoſity.</l>
+               <l>Goe to the Earth, wherto thou tend'ſt, and ſee</l>
+               <l>That Mans'on which muſt hold thy droſs and thee.</l>
+               <l>For ye will never part while thou'rt alive,</l>
+               <l>If when thou'rt dead; a man as well may ſtrive</l>
+               <l>To wean the <hi>Steel</hi> from th' <hi>Agat</hi> as to hold</l>
+               <l>Thee from th' embraces of thy God thy Gold,</l>
+               <l>Which ſtil is worſhip'd though there's nought whereby</l>
+               <l>To prove the cuſtome but the
+<note n="(c)" place="bottom">
+                     <l>—Vitium commune omnium eſt</l>
+                     <l>Quod nimium ad rem in ſenecta attenti ſumus.</l>
+                     <l>
+                        <hi>Ter: Adelph: Act:</hi> 5. <hi>Scen:</hi> 8.</l>
+                  </note> frequency.</l>
+               <l>Such a <hi>magnetick</hi> virtu's in that bed</l>
+               <l>To which thou'd'ſt have thy ſons too married.</l>
+               <l>Notorious blindneſs to have <hi>Cupid</hi> be</l>
+               <l>Guided by <hi>Fortune</hi> who's as blind as he.</l>
+               <l>But what talk I of <hi>Cupid</hi> now? his bow,</l>
+               <l>Alaſs was broken many years agoe.</l>
+               <l>There's no ſuch thing as love remains, thoſe darts</l>
+               <l>Which wound the hardeſt adamantine hearts.</l>
+               <pb n="25" facs="tcp:35237:14"/>
+               <l>The dowry
+<note n="(a)" place="bottom">—Veniant a dote fagittae. <hi>Juv: Sat:</hi> 6.</note> throws, and nothing's thought ſo bad</l>
+               <l>As that good Statute which
+<note n="(b)" place="bottom">Virgines ſine dote nubere juſſit, ut uxores non pecuniae cauſa eligerenter, ſeveriaſque matrimonia ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a viri coerce<g ref="char:EOLhyphen"/>rent, cam nullis fraenis dotis tenerentur. <hi>Munſi: Geog:</hi> 4.</note> 
+                  <hi>Lycurgus</hi> made.</l>
+               <l>O! what egreg'ous cow'rdiſe 'tis to be</l>
+               <l>Led captive by ſo weak an enemy!</l>
+               <l>Poor feeble bloodleſs trunk, where haſt thou loſt</l>
+               <l>Thoſe brave heroick ſtreams which thou did'ſt boaſt</l>
+               <l>Ran in thy veins? Was't ſome Romantick ſtrayn</l>
+               <l>Drew that <hi>Chimoera</hi> from thy tow'ring brain?</l>
+               <l>I think ſo too, Nobility's nought elſe</l>
+               <l>But a meer name created by our ſelves.</l>
+               <l>But ſuch a wench deſerves not ſuch a Lord</l>
+               <l>Becauſe her ruſtick birth cannot afford</l>
+               <l>Enough <hi>Eaſterling</hi> thouſands for to be</l>
+               <l>A counterpoize to his nobility.</l>
+               <l>Yet this is no <hi>embargo</hi> to his courſe,</l>
+               <l>Though't be a common Aphoriſme, the ſource</l>
+               <l>Of whoſe affection is true love, a mint</l>
+               <l>That hath a mixture o'th' <hi>Platonick</hi> in't.</l>
+               <l>That man's pretended ardour's but deſire</l>
+               <l>Which needs ſuch fuel to maintain his fire.</l>
+               <l>And who would ſtand upon this word call'd birth?</l>
+               <l>Heroick ſouls oft lodge in humble earth.</l>
+            </lg>
+            <lg>
+               <l>Si Natura negat facit indignatio verſum</l>
+               <l>Qualemcunque poteſt—<hi>Juv. Sat.</hi> 1.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="26" facs="tcp:35237:15"/>
+            <head>A Map of the World.</head>
+            <lg>
+               <l>THis World's a <hi>Theatre</hi> whereon are acted</l>
+               <l>Blind <hi>Fortune</hi>'s plays;</l>
+               <l>And 'tis ſo commodiouſly compacted</l>
+               <l>It ſerves alwayes:</l>
+               <l>Sometimes ſhe repreſents a <hi>Tragick</hi> ſcene</l>
+               <l>Then party ones;</l>
+               <l>And then inſtead of <hi>Coruſes</hi> between</l>
+               <l>Chants <hi>Comick</hi> tones:</l>
+               <l>Thus by viciſſitudes her wheel alwayes</l>
+               <l>Degrades and elevates what ſpoakes ſhe pleaſe.</l>
+            </lg>
+            <lg>
+               <l>Juſt now ſhe'll throw a man into the aire</l>
+               <l>Of pop lar breath;</l>
+               <l>Then let him fall into the hell deſpair</l>
+               <l>And tempt his death:</l>
+               <l>Nay I obſerve thoſe Dung-bred <hi>ſcarabyes</hi>
+               </l>
+               <l>Which hate the light,</l>
+               <l>Hov'ring upon her wings aloofe i'th' Skyes</l>
+               <l>Ere it be night:</l>
+               <l>So blind is <hi>Plutus</hi> who promoting <hi>Braves</hi>
+               </l>
+               <l>Dooms more deſerving ones to be their ſlaves.</l>
+            </lg>
+            <lg>
+               <l>Here goes a <hi>Gallant</hi> hurr'ed on before's</l>
+               <l>In <hi>Fortunes</hi> lap,</l>
+               <l>Who talks of nothing but his hounds or whores,</l>
+               <l>Or elſe a clap:</l>
+               <pb n="27" facs="tcp:35237:15"/>
+               <l>At laſt he doth repent, when 'tis too late,</l>
+               <l>That e'er he ſee one;</l>
+               <l>When they have brought him to the curriſh fate</l>
+               <l>Of poor <hi>Acteon.</hi>
+               </l>
+               <l>So <hi>Phoebus</hi> paſſing the Merid'an line</l>
+               <l>Admits no <hi>Remora</hi> but muſt decline.</l>
+            </lg>
+            <lg>
+               <l>There <hi>runs</hi> a <hi>Poet</hi> that's in need of Money</l>
+               <l>And ſo purſues him,</l>
+               <l>Begging for <hi>Patronage</hi> and <hi>Patrimony</hi>
+               </l>
+               <l>Though he abuſe him:</l>
+               <l>Yet ſtill his fancy domineers in ſpite</l>
+               <l>And cares not for her,</l>
+               <l>But flouts at <hi>Fortune</hi>'s fooliſh favorites</l>
+               <l>Who thus adore her.</l>
+               <l>And that's the reaſon why this purblind whore</l>
+               <l>Hath Poets doom'd inevitably poor.</l>
+            </lg>
+            <lg>
+               <l>Walk o'er the forked hill, I doe not think</l>
+               <l>There is one there</l>
+               <l>But out of th' <hi>horſe's</hi> footing uſed to drink</l>
+               <l>For want beere.</l>
+               <l>They'll ſing thy praiſe in hope to gain thereby</l>
+               <l>Exchange for verſe;</l>
+               <l>Like thoſe that waiting on the <hi>Chilterne</hi> lye</l>
+               <l>For paſſengers.</l>
+               <l>And when thou do'ſt returne thoul't ſay, I know it,</l>
+               <l>The way to begg'ry's to be firſt a Poet.</l>
+               <pb n="28" facs="tcp:35237:16"/>
+               <l>Here ſails a <hi>Merchant</hi> with an eager chaſe</l>
+               <l>Purſuing wealth;</l>
+               <l>Who, ſo that he can ſtow it up a pace</l>
+               <l>Scornes eaſe or health:</l>
+               <l>Through ſtormy ſeas to both the <hi>Indies</hi> flyes</l>
+               <l>To ſetch home's wares,</l>
+               <l>And when his <hi>Cue</hi> of <hi>Exit</hi> comes he dyes,</l>
+               <l>And leaves it's heirs.</l>
+               <l>And they in recompence will let him ly</l>
+               <l>Perhaps within a tomb of <hi>Porphyrie.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>There walks a plodding <hi>Student</hi> beating's brains</l>
+               <l>About a notion,</l>
+               <l>Another ſtands muſing on lofty ſtrains</l>
+               <l>Of Elocution;</l>
+               <l>A third conſumes his oyl and wealth to dive</l>
+               <l>
+                  <hi>Hermetick</hi> myſteries,</l>
+               <l>Till at the laſt perhaps he doth perceive</l>
+               <l>His groſs ſimplicities,</l>
+               <l>For the moſt learned onely come to know</l>
+               <l>After all's done that they are nothing ſo.</l>
+            </lg>
+            <lg>
+               <l>Here wades a <hi>Farmer</hi> wearing time and leather</l>
+               <l>To fill his barnes,</l>
+               <l>Drives on regarding neither wind nor weather</l>
+               <l>Nor Nocturne harmes;</l>
+               <l>Goes to bed late, and antedates the day</l>
+               <l>To look his ſheep,</l>
+               <l>Where if he miſſeth one that's gone aſtray</l>
+               <l>He cannot ſleep;</l>
+               <pb n="29" facs="tcp:35237:16"/>
+               <l>And after all his breath and labour's ſpent</l>
+               <l>Death tells him he muſt leave his tenement.</l>
+            </lg>
+            <lg>
+               <l>There ſits a <hi>Miſer</hi> hugging of his cheſt</l>
+               <l>Full fraught with treaſure,</l>
+               <l>Who for anxiety can't take his reſt</l>
+               <l>Nor any pleaſure;</l>
+               <l>But as he's caſting up's accounts Death comes</l>
+               <l>And finds him ſet</l>
+               <l>And tells him he muſt loſe his ill-gott' ſums,</l>
+               <l>Pay <hi>Nature's</hi> debt,</l>
+               <l>And leave what he on Uſury hath lent</l>
+               <l>Unto his heyrs to be profuſely ſpent.</l>
+            </lg>
+            <lg>
+               <l>Here lyes a <hi>Sould'er</hi> clap in maſſy ſteel</l>
+               <l>Upon the ground</l>
+               <l>Who, when he wakes, for numneſs cannot feel</l>
+               <l>His deepeſt wound;</l>
+               <l>Then up he gets and toed'ous march aſſumes</l>
+               <l>To meet his foes,</l>
+               <l>Where he perhaps may get ſome coſtly plumes</l>
+               <l>Or elſe he goes</l>
+               <l>To bed with's fathers; Thus men ſtrive to have</l>
+               <l>A toylſome life or honourable grave.</l>
+            </lg>
+            <lg>
+               <l>Such is this World which we may well compare</l>
+               <l>Unto a bubble,</l>
+               <l>Where ev'ry one that comes takes pains and care</l>
+               <l>To purchaſe trouble,</l>
+               <pb n="30" facs="tcp:35237:17"/>
+               <l>Thinking perhaps it will eternize them,</l>
+               <l>I can't tell why,</l>
+               <l>Though they live <hi>Neſtor</hi> or <hi>Methuſalem</hi>
+               </l>
+               <l>Yet they muſt dye.</l>
+               <l>And after th' revolut'on of few yeares</l>
+               <l>Are quite forgot'as if they never were.</l>
+            </lg>
+            <lg>
+               <l>Thus we are ſent upon this ſpac'ous ſtage</l>
+               <l>To act our parts,</l>
+               <l>Some goe off <hi>Mutes,</hi> others ſigh out an age</l>
+               <l>In ach and ſmarts.</l>
+               <l>The Earth is our <hi>Proſcenium</hi> where we</l>
+               <l>Tire and retire,</l>
+               <l>
+                  <note n="(a)" place="bottom">Laudabam primum ego mortuos ipſos qui jam ſine mortui prae vivis qui vivant adhac: Sed melior poſtea utriſque viſus eſt qui adhuc non fair, qui non vidit malum iſtud peſſimum quod ſit ſub ſole. <hi>Solom. Eccleſ. Cap.</hi> 3. <hi>V.</hi> 24, 25.</note> 
+                  <hi>Wherefore than th'living happy'r they that be</hi>
+               </l>
+               <l>
+                  <hi>Long ſince expir'd,</hi>
+               </l>
+               <l>
+                  <hi>And than them both ſuch as have never been</hi>
+               </l>
+               <l>
+                  <hi>Nor theſe innumerable evills ſeen.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:35237:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
